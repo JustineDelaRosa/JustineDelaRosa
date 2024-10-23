@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a passionate **PHP developer** with a strong f
 
 - I’m a huge fan of open-source contributions!
 - When I’m not coding, I love gaming 🎮, exploring new tech trends 🔍, and going to gym 💪.
-- Fun fact: I’m an expert at turning boredom into code!
+- Fun fact: I love to read sci-fi novels and watch anime in my free time!
 
 ---
 
