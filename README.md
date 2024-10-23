@@ -26,8 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **PHP developer** with a strong f
 ---
 
 ## 🌱 What I’m learning
-
-- Microservices architecture with PHP and Docker.
+- Mastering Laravel's advanced features and best practices.
 - Improving frontend skills with Vue.js.
 - Diving into Test-Driven Development (TDD) for PHP applications.
 
